@@ -36,7 +36,7 @@ Open the index.html file in your preferred web browser.
 
 5. **Enter your name when prompted, choose a chat room, and start chatting in real-time!**
 
-## Project Structur
+## Project Structure
 
 1. index.js: Node.js server handling Socket.IO connections.
 2. index.html: HTML file for the chat app.
